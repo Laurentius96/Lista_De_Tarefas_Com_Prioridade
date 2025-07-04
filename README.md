@@ -316,6 +316,6 @@ For the complete license terms, please see the [LICENSE.md](LICENSE.md) file.
 ---
 
 <div align="center">
-  <p><b>Developed with 💙 by Lorenzo C. Bianchi feat. DNC Educational Team</b></p>
+  <p><b>Developed with 💙 by <a href="https://github.com/Laurentius96">Lorenzo C. Bianchi</a> feat. DNC Educational Team</b></p>
   <p><i>Learning through practice - building real solutions with code!</i></p>
 </div>
