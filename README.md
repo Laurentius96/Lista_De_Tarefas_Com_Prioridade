@@ -53,27 +53,23 @@ The project serves as an interactive learning experience, combining theoretical 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Laurentius96/Lista_De_Tarefas_Com_Prioridade.git
+git clone https://github.com/Laurentius96/Priority_Task_Manager.git
 ```
 
 2. **Navigate to project directory:**
 ```bash
-cd Lista_De_Tarefas_Com_Prioridade
+cd Priority_Task_Manager
 ```
 
-3. **Install required packages:**
+3. **Run the `main.ipynb` notebook in a Jupyter environment:**
 ```bash
-pip install jupyter notebook pandas
+jupyter notebook main.ipynb
 ```
 
-4. **Launch Jupyter Notebook:**
+4. **Alternatively, run the script directly:**
 ```bash
-jupyter notebook
+python -m main.py
 ```
-
-5. **Open the main notebook:**
-   - Navigate to `task_manager.ipynb` in the Jupyter interface
-   - Click to open the notebook
 
 ## ⚙️ Usage
 
